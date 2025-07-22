@@ -15,4 +15,4 @@ This is a simple website created to learn GitHub Pages, HTML, CSS, and collabora
 - Deployed with GitHub Pages
 
 ## Link
-[View the live site](iitroublesii.github.io/My-First-Repo/)
+[View the live site](https://iitroublesii.github.io/My-First-Repo/)
